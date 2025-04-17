@@ -4,7 +4,7 @@
 - 👀 I’m interested in full-stack development, AI, and open-source contributions.
 - 🌱 I have completed learning Next.js.
 - 💞️ I’m looking to collaborate on MERN stack projects and AI-driven applications.
-- 📫 How to reach me: [Email](mailto:mdq687@gmail.com) | [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/Md-Qaiser-Alam)
+- 📫 How to reach me: [Email](mailto:mdq687@gmail.com) | [GitHub](https://github.com/Md-Qaiser-Alam)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I love solving complex problems and optimizing workflows for better efficiency!
 
