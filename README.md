@@ -1,13 +1,9 @@
 # 👋 Hi, I’m @Md-Qaiser-Alam
 
 ## About Me
-- 👀 I’m interested in full-stack development, AI, and open-source contributions.
-- 🌱 I have completed learning Next.js.
-- 💞️ I’m looking to collaborate on MERN stack projects and AI-driven applications.
-- 📫 How to reach me: [Email](mailto:mdq687@gmail.com) | [GitHub](https://github.com/Md-Qaiser-Alam)
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I love solving complex problems and optimizing workflows for better efficiency!
 
+Passionate about building next-gen web experiences with a strong focus on performance, clean architecture, and modern UI. I’ve recently gone deep into Next.js and have been loving working with tools like ShadCN, Framer Motion, and Storybook to build smooth, accessible, and scalable interfaces.
+Excited by the challenge of a blank canvas — whether it's full-stack product development, AI-driven ideas, or open-source tooling. Always looking to collaborate on projects that push boundaries and blend great UX with solid engineering.
 ---
 
 ### 🚀 Technologies & Tools
@@ -24,6 +20,9 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![Google Analytics](https://img.shields.io/badge/Google_Analytics-E37400?style=for-the-badge&logo=googleanalytics&logoColor=white)
 ![Google Search Console](https://img.shields.io/badge/Google_Search_Console-4285F4?style=for-the-badge&logo=google&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=for-the-badge&logo=storybook&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6F42C1?style=for-the-badge&logo=vitest&logoColor=white)
+![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)
 
 ---
 
