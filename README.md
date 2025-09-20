@@ -3,7 +3,9 @@
 ## About Me
 
 Passionate about building next-gen web experiences with a strong focus on performance, clean architecture, and modern UI. I’ve recently gone deep into Next.js and have been loving working with tools like ShadCN, Framer Motion, and Storybook to build smooth, accessible, and scalable interfaces.
+
 Excited by the challenge of a blank canvas — whether it's full-stack product development, AI-driven ideas, or open-source tooling. Always looking to collaborate on projects that push boundaries and blend great UX with solid engineering.
+
 ---
 
 ### 🚀 Technologies & Tools
